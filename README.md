@@ -1,2 +1,1 @@
-# cadastroJur
-cadastro de leis para criação de API
+# Site destinado a criação de API para Leis Nacionais
