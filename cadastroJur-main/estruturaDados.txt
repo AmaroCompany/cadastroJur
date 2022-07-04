@@ -1,4 +1,0 @@
-lei {id:11340, nome:"Maria da Penha"};
-artigo {lei:11340, numeroArt:1, redacaoArt:"loremIpsum"};
-paragrafo {lei:11340, numeroArt:1, numeroParagrafo:1, redacaoPar:"LoremIpsum"};
-inciso {lei:11340, numArt:1, numParag:1, numInciso:1, redacaoIn:"loremIpsum"};
